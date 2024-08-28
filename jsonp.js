@@ -1,4 +1,4 @@
-showSeasons({
+{
   "seasons": [
     {
       "season": "Winter"
@@ -13,4 +13,4 @@ showSeasons({
       "season": "Autumn"
     }	
   ]
-});
+}
